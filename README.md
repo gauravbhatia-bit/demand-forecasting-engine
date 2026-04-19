@@ -80,9 +80,9 @@ demand-forecasting-engine/
 
 | Model | Avg MAE | Avg RMSE | Avg MAPE% |
 |-------|---------|----------|-----------|
-| ARIMA | ~XX | ~XX | ~% 14.8
-| Prophet | ~XX | ~XX | ~6.0% |
-| **XGBoost** | **~XX** | **~XX** | **~6.4%** ✅ |
+| ARIMA | ~71.44 | ~90.11 | ~15.49% |
+| Prophet | ~29.34 | ~35.94| ~6.07% |
+| **XGBoost** | **~32.96** | **~40.24** | **~6.61%** ✅ |
 
 *Run Step 6 in the notebook to populate this table with real numbers and update here.*
 
